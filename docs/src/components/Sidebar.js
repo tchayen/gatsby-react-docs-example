@@ -7,6 +7,7 @@ const Sidebar = ({ files, currentName }) => (
   <ul
     style={{
       marginLeft: 0,
+      marginBottom: 0,
       backgroundColor: `#eee`,
       listStyleType: `none`,
       paddingLeft: `${PADDING}px`,
