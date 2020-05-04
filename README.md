@@ -6,13 +6,13 @@ Example showing how to set up documentation site with Gatsby that reads your com
 
 ## Usage
 
-1. Install fake library dependencies
+1. Install fake library dependencies.
 
 ```bash
 yarn
 ```
 
-2. Go to `/docs`
+2. Go to `/docs`.
 
 ```bash
 cd docs
@@ -24,13 +24,13 @@ cd docs
 yarn
 ```
 
-4. Start Gatsby dev mode
+4. Start Gatsby dev mode.
 
 ```bash
 gatsby develop
 ```
 
-5. Visit `http://localhost:8000`
+5. Visit `http://localhost:8000`.
 
 6. Edit anything in `src/components` and see how it live updates.
 
