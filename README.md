@@ -1,4 +1,4 @@
-# gatsby-react-docs
+# gatsby-react-docs-example
 
 Example showing how to set up documentation site with Gatsby that reads your components and automatically generates doc pages straight from your code.
 
